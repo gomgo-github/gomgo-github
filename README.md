@@ -1,6 +1,7 @@
 <h2 align="center">🎉 gomgo-github 🎉</h2>
 
-Just a Spanish Dreamer 
+_Just a Spanish Dreamer_ 
+99% Private Repos 💀
 
 ### Alt-account of [@gomgo-github-2](https://github.com/gomgo-github-2)
 
