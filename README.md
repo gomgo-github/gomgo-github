@@ -1,6 +1,6 @@
 <h2 align="center">🎉 gomgo-github 🎉</h2>
 
-Just a Spain Dreamer 
+Just a Spanish Dreamer 
 
 ### Alt-account of [@gomgo-github-2](https://github.com/gomgo-github-2)
 
