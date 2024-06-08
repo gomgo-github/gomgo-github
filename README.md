@@ -1,5 +1,7 @@
 <h2 align="center">🎉 gomgo-github 🎉</h2>
 
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/gomgo-github/gomgo-github/main/images/background.png');]{x0000}$}
 _Just a Spanish Dreamer_ 
 99% Private Repos 💀
 
