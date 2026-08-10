@@ -34,7 +34,7 @@ _✨ Extra Info ✨_
 
 ###### And much more, but i can't remember xD, bye^^
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gomgo-github)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gomgo-github)](https://github.com/stats-organization/github-stats-extended)
 
 
 
