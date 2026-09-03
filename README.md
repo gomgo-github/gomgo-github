@@ -16,13 +16,14 @@ _Just a Spanish Dreamer_
 - BASIC
 
 _Tech_
-  ASUS FX505DT - with AMD Ryzen 7, NVidia GTX 1650 and AMD Vega Mobile Graphics, 16GB DDR3 RAM - Raspberry Pi 3B - 3DS (Luma3DS), Wii U (Tiramisu + Aroma CFW) (all of these just for run my own games and projects) - Nintendo DS, Nintendo Switch, Nintendo Wii(RVL-101) and PSP...
+  ASUS FX505DT - with AMD Ryzen 7, NVidia GTX 1650 and AMD Vega Mobile Graphics, 16GB DDR3 RAM - Raspberry Pi 3B - Homebrew Enthusiast: 3DS (Luma3DS), Wii U (Tiramisu + Aroma CFW) - Nintendo DSi (R4), Nintendo Switch (PicoFly self-install), Nintendo Wii(RVL-101 with BootMii), PSP (MX CFW), PS4 Pro (GoldHen), Xbox360 (BadUpdate), PS2 Fat (FreeMcBoot) ...
 
 _✨ Extra Info ✨_
 - Indie Gamedev
-- Homebrew Lover
+- Homebrew Enthusiast
 - Anime/Manga consumer
 - Discord Bots Creator
+- 🎼 Hell yeah I neeeeeed music in my life 
   
 ### _Social Media_
  - Twitter: @GomgoUnity1 (https://twitter.com/GomgoUnity1)
@@ -31,6 +32,8 @@ _✨ Extra Info ✨_
  - GBATemp.net: gomgo (https://gbatemp.net/members/gomgo.567856/)
  - ElOtroLado: [+[-gmg-]] (https://www.elotrolado.net/memberlist.php?mode=viewprofile&u=576630)
  - Itch.io: gomgo-github (http://gomgo-github.itch.io/)
+
+ - My website: [mariope.dev](mariope.dev)
 
 ###### And much more, but i can't remember xD, bye^^
 
