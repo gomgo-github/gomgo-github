@@ -16,7 +16,7 @@ _Just a Spanish Dreamer_
 - BASIC
 
 _Tech_
-  ASUS FX505DT - with AMD Ryzen 7, NVidia GTX 1650 and AMD Vega Mobile Graphics, 16GB DDR3 RAM - Raspberry Pi 3B - Homebrew Enthusiast: 3DS (Luma3DS), Wii U (Tiramisu + Aroma CFW) - Nintendo DSi (R4), Nintendo Switch (PicoFly self-install), Nintendo Wii(RVL-101 with BootMii), PSP (MX CFW), PS4 Pro (GoldHen), Xbox360 (BadUpdate), PS2 Fat (FreeMcBoot) ...
+  ASUS FX505DT - with AMD Ryzen 7, NVidia GTX 1650 and AMD Vega Mobile Graphics, 16GB DDR4 RAM - Raspberry Pi 3B - Homebrew Enthusiast: 3DS (Luma3DS), Wii U (Tiramisu + Aroma CFW) - Nintendo DSi (R4), Nintendo Switch (PicoFly self-install), Nintendo Wii(RVL-101 with BootMii), PSP (MX CFW), PS4 Pro (GoldHen), Xbox360 (BadUpdate), PS2 Fat (FreeMcBoot) ...
 
 _✨ Extra Info ✨_
 - Indie Gamedev
